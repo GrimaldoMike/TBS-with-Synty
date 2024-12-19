@@ -3878,6 +3878,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 602982693}
     m_Modifications:
+    - target: {fileID: 1149831451, guid: c4f7d36bd67086a4a911f360438d3693, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5809728486137236263, guid: c4f7d36bd67086a4a911f360438d3693, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3941,7 +3945,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6242222233210788811, guid: da48ecd970bac5648b9eb1ac51c639bc, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6505601062782738049, guid: da48ecd970bac5648b9eb1ac51c639bc, type: 3}
       propertyPath: m_RootOrder
@@ -3990,6 +3994,10 @@ PrefabInstance:
     - target: {fileID: 6505601062782949551, guid: da48ecd970bac5648b9eb1ac51c639bc, type: 3}
       propertyPath: m_Name
       value: BorderCollie_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6505601062782949551, guid: da48ecd970bac5648b9eb1ac51c639bc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
